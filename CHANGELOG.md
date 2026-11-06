@@ -1,6 +1,6 @@
 # CHANGELOG – PORTFOLIO CÁ NHÂN
 
-*Dự án:* 2071020052_CNTT2004_Portfolio  
+*Dự án:* 2071020164_CNTT20-04_Portfolio  
 *Nhánh:* main  
 *Thời gian phát triển:* 30/10/2026
 
